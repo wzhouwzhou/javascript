@@ -100,7 +100,8 @@ Outputs **`Anime`** to the command line:
 ![](https://cdn.discordapp.com/attachments/297582971488174096/525123053152239626/Anime.png)
 
 <hr>
-This article brought to you by William Zhou (wzhouwzhou@gmail.com or William Zhou#0001 via Discord: <a href="https://discord.gg/jj5FzF7">https://discord.gg/jj5FzF7</a>)
+
+##### This article brought to you by William Zhou (wzhouwzhou@gmail.com or William Zhou#0001 via Discord: <a href="https://discord.gg/jj5FzF7">https://discord.gg/jj5FzF7</a>)
 
 LinkedIn: <a href="https://linkedin.com/in/wlzhou"><https://linkedin.com/in/wlzhou></a><br>
 Github: <a href="https://github.com/wzhouwzhou"><https://github.com/wzhouwzhou></a><br>
