@@ -57,6 +57,62 @@ To convert '1' to a number, it's very simple: put a `+` in front.
 
 ![](https://cdn.discordapp.com/attachments/297582971488174096/526823139527622656/1.png)
 
+#### The `+` operator for converting a boolean to a number
+
+Remember that booleans are true/false. In computers, true is 1 and false is 0. We can confirm this like so:
+
+![](https://cdn.discordapp.com/attachments/521564029433675776/526827961870057502/boolean.png)
+
+#### The `-` operator
+The `-` operator is used for number subtraction only. Please make sure you only use this with numbers (unless you know what you're doing)
+
+        5 - 3
+
+becomes
+
+        2
+
+#### The `*` operator
+The `*` operator is used for number multiplication. It's like using `x` or `•` on paper. Let's look at an example:
+
+        2 * 9
+        1 + 3 * 4
+        1.5 * 2
+
+becomes
+
+        18
+        13
+        3
+
+Remember that order of operations applies at all times, just like with regular math! In this case, multiplication comes before addition/subtraction.
+
+#### The `/` operator
+The `/` operator is used for number division. 
+
+        8 / 4
+        4 / 2 + 9 / 3
+
+becomes
+
+        2
+        5
+
+Don't forget about order of operations.
+
+#### The `!` operator
+The `!` operator is very special: it converts things after it to boolean and flips the value. This is explained better with examples.
+Let's start with the basics, boolean-only:
+
+![](https://cdn.discordapp.com/attachments/521564029433675776/526827235253026816/boolean.png)
+
+Now let's look at converting numbers to booleans. Remember how we said that false was 0 and true was 1?
+When converting backwards, any number BUT 0 is true, and ONLY 0 is false.
+HOWEVER, remember that ! flips it once. If you want the boolean version, ! converts it to a boolean and flips it, so to unflip it use another !.
+meaning: !!number -> the boolean value 
+
+![](https://cdn.discordapp.com/attachments/521564029433675776/526829464085069875/Screen_Shot_2018-12-24_at_1.31.02_PM.png)
+
 <hr>
 
 ##### This article brought to you by William Zhou (wzhouwzhou@gmail.com or William Zhou#0001 via Discord: <a href="https://discord.gg/jj5FzF7">https://discord.gg/jj5FzF7</a>)
