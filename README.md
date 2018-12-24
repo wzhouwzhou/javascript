@@ -5,6 +5,8 @@
 
 ### Lesson 1: Strings | Branch: js-strings | File: <https://github.com/wzhouwzhou/plutia-discord-bot-core/blob/feature/js-strings/Lesson1.md><br>
 ### Lesson 2a: Types | Branch: js-types | File: <https://github.com/wzhouwzhou/plutia-discord-bot-core/blob/feature/js-types/Lesson2a.md><br>
+### Lesson 2b: Numbers | Branch: js-numbers | File: <https://github.com/wzhouwzhou/plutia-discord-bot-core/blob/feature/js-numbers/Lesson2b-Numbers.md>
+### Lesson 3: Variables | Branch: js-variables | File: <https://github.com/wzhouwzhou/plutia-discord-bot-core/blob/feature/js-variables/Lesson3-Variables.md>
 
 <hr>
 
