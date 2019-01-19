@@ -8,7 +8,7 @@
 ### Lesson 2b: Numbers | Branch: js-numbers | File: <https://github.com/wzhouwzhou/plutia-discord-bot-core/blob/feature/js-numbers/Lesson2b-Numbers.md>
 ### Lesson 3: Variables | Branch: js-variables | File: <https://github.com/wzhouwzhou/plutia-discord-bot-core/blob/feature/js-variables/Lesson3-Variables.md>
 ### Lesson 4: Functions | Branch: js-functions | File: <https://github.com/wzhouwzhou/plutia-discord-bot-core/blob/feature/js-functions/Lesson4-Functions.md>
-
+### Lesson 5: Template Strings and Comments | Branch: js-templates-comments | File: <https://github.com/wzhouwzhou/plutia-discord-bot-core/blob/feature/js-templates-comments/Lesson5-TemplateStrings%2BComments.md>
 <hr>
 
 ##### This article brought to you by William Zhou (wzhouwzhou@gmail.com or William Zhou#0001 via Discord: <a href="https://discord.gg/jj5FzF7">https://discord.gg/jj5FzF7</a>)
